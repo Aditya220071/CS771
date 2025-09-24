@@ -3,13 +3,6 @@
 ## 📌 Introduction
 This project was implemented as part of **CS771: Intro to Machine Learning (Fall 2024)**.  
 We explored **Learning with Prototypes (LwP)** classifiers for sequential learning across evolving datasets, focusing on adapting to distributional changes while preserving past knowledge.
-
-## 👨‍💻 Team
-- Aditya Modi (220071)  
-- Kanishk Goyal (220498)  
-- Naman Kumar Jaiswal (220687)  
-- Piyush Singh (220769)
-
 ## 🎯 Objectives
 1. **Sequential Training (Task 1)**  
    - Train an LwP chain on dataset **D1** and iteratively update using datasets **D2–D10**.  
